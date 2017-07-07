@@ -74,6 +74,6 @@ deploy:
 
 backup:
     type: git
-    theme: landscape
+    theme: indigo
     repository:
        github: git@github.com:1050iyoahcul/1050iyoahcul.github.io.git,hexo
